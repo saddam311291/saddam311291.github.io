@@ -18,11 +18,10 @@ import { usePathname } from 'next/navigation';
 // Depending on the size of the application, this would be stored in a database.
 const links = [
   { name: 'About', href: '/', icon: UserIcon },
-  { name: 'Experience', href: '/pages/experience', icon: DocumentDuplicateIcon },
+  { name: 'Employment History', href: '/pages/experience', icon: DocumentDuplicateIcon },
   { name: 'Portfolio', href: '/pages/portfolio',  icon: UserGroupIcon, },
   { name: 'Education', href: '/pages/education', icon: AcademicCapIcon, },
-  { name: 'Skills', href: '/pages/skills', icon: ServerStackIcon },
-  { name: 'Certification ', href: '/pages/certification', icon:PaperClipIcon },
+  { name: 'Skills & Certification', href: '/pages/skills', icon: ServerStackIcon },
   { name: 'Contact ', href: '/pages/contact', icon: InboxIcon },
    
 ];
@@ -37,16 +36,18 @@ export default function NavLinks() {
           <a key={link.name}
             href={link.href}
             className={clsx(
-              'flex h-[48px] grow items-center justify-center gap-2 rounded-md bg-gray-200 p-3 text-sm font-medium hover:bg-sky-100 hover:text-blue-600 md:flex-none md:justify-start md:p-2 md:px-3',
+              'flex h-[48px] grow items-center justify-center gap-2 rounded-md bg-gray-200 p-0 text-sm font-medium hover:bg-sky-100 hover:text-blue-600 md:flex-none md:justify-start md:p-2 md:px-3',
               {
                 'bg-sky-100 text-blue-600': pathname === link.href,
               },
-            )}
+            )
+          }
             > <LinkIcon className="w-6" />
             <p className="hidden md:block">{link.name}</p>
           </a>
         );
-      })}
+      })
+      }
     </>
   );
 }
