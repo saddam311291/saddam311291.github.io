@@ -20,13 +20,13 @@ const links = [
 
 export default function NavLinks() {
   const pathname = usePathname();
-  const [copied, setCopied] = useState(null);
+  const [copied, setCopied] = useState<number | null>(null);
 
-  const handleCopy = (text, index) => {
+  function handleCopy(text: string, index: number): void {
     navigator.clipboard.writeText(text);
     setCopied(index);
     setTimeout(() => setCopied(null), 2000); // Reset copy state after 2 seconds
-  };
+  }
 
   return (
     <>
