@@ -1,6 +1,6 @@
 import Heading from "./heading";
-import {Traning} from "./traning";
-import {Education} from "./education";
+import {Certification} from "./certification";
+import {Skills} from "./skills";
  
 
 
@@ -14,8 +14,8 @@ export default async function Page() {
         </div>
         <div className="flex-grow  mb-20 overflow-y-auto w-full">
        
-        <Education></Education>
-        <Traning></Traning>
+        <Skills></Skills>
+        <Certification></Certification>
         
         </div>
       </div>
