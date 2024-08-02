@@ -5,7 +5,7 @@ export  function Head() {
       <div className="flex items-center justify-between ml-5">                  
             <div className="mb-2 flex items-center">
               <div>
-                <h4 className="  text-gray-700 font-bold  text-base">Head of Product and Project<span className='font-normal text-sm md:text-base'>  (July, 2021 to March, 2022)</span></h4>
+                <h4 className="  text-gray-700 font-bold  text-base">Head of Product and Project<span className="font-normal text-sm md:text-base">  (July, 2021 to March, 2022)</span></h4>
                 <h4 className="text-sm ml-2 text-gray-500 font-bold"> CS InfoTech Limited. </h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline"><em> Location: Software Technology Park, Kawran Bazar, Dhaka.</em></h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline "> <em><u> Responsibilities </u></em> </h4>
@@ -93,7 +93,7 @@ export  function Head() {
       <div className="flex items-center justify-between ml-5">                  
             <div className="mb-2 flex items-center">
               <div>
-                <h4 className="  text-gray-700 font-bold  text-base">Technical Lead and Team Lead <span className='font-normal text-sm md:text-base'>  (January, 2020 to June, 2021)</span></h4>
+                <h4 className="  text-gray-700 font-bold  text-base">Technical Lead and Team Lead <span className="font-normal text-sm md:text-base">  (January, 2020 to June, 2021)</span></h4>
                 <h4 className="text-sm ml-2 text-gray-500 font-bold"> CS InfoTech Limited. </h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline"><em> Location: Software Technology Park, Kawran Bazar, Dhaka.</em></h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline "> <em><u> Responsibilities </u></em> </h4>
@@ -121,7 +121,7 @@ export  function Head() {
                         <li><strong>Code Quality and Standards:</strong>
                             <ul>
                                 <li>Establish and enforce coding standards and best practices, ensuring high-quality and maintainable code.</li>
-                                <li>Conduct code reviews, offering constructive feedback to enhance the team's technical skills.</li>
+                                <li>Conduct code reviews, offering constructive feedback to enhance the team&apos;s technical skills.</li>
                             </ul>
                         </li>
 
@@ -227,7 +227,7 @@ export  function Head() {
       <div className="flex items-center justify-between ml-5">                  
             <div className="mb-2 flex items-center">
               <div>
-                <h4 className="  text-gray-700 font-bold  text-base">DBA and System Analyst. <span className='font-normal text-sm md:text-base'>  (January, 2019 to December, 2019)</span></h4>
+                <h4 className="  text-gray-700 font-bold  text-base">DBA and System Analyst. <span className="font-normal text-sm md:text-base">  (January, 2019 to December, 2019)</span></h4>
                 <h4 className="text-sm ml-2 text-gray-500 font-bold"> CS InfoTech Limited. </h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline"><em> Location: Software Technology Park, Kawran Bazar, Dhaka.</em></h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline "> <em><u> Responsibilities </u></em> </h4>
@@ -363,7 +363,7 @@ export  function SeniorSoftware () {
       <div className="flex items-center justify-between ml-5">                  
             <div className="mb-2 flex items-center">
               <div>
-                <h4 className="  text-gray-700 font-bold  text-base">Senior Software Engineer <span className='font-normal text-sm md:text-base'>  (January, 2018 to December, 2018)</span></h4>
+                <h4 className="  text-gray-700 font-bold  text-base">Senior Software Engineer <span className="font-normal text-sm md:text-base">  (January, 2018 to December, 2018)</span></h4>
                 <h4 className="text-sm ml-2 text-gray-500 font-bold"> CS InfoTech Limited. </h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline"><em> Location: Software Technology Park, Kawran Bazar, Dhaka.</em></h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline "> <em><u> Responsibilities </u></em> </h4>
@@ -458,7 +458,7 @@ export  function Software () {
       <div className="flex items-center justify-between ml-5">                  
             <div className="mb-2 flex items-center">
               <div>
-                <h4 className="  text-gray-700 font-bold  text-base">Software Engineer <span className='font-normal text-sm md:text-base'>  (July, 2016 to December, 2017)</span></h4>
+                <h4 className="  text-gray-700 font-bold  text-base">Software Engineer <span className="font-normal text-sm md:text-base">  (July, 2016 to December, 2017)</span></h4>
                 <h4 className="text-sm ml-2 text-gray-500 font-bold"> Pioneer Printing & Packaging Ltd. </h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline"><em> Location: 141/1 Fakir pool (Commissioner Goli), Dhaka-1000.</em></h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline "> <em><u> Responsibilities </u></em> </h4>
@@ -553,7 +553,7 @@ export  function Junior() {
       <div className="flex items-center justify-between ml-5">                  
             <div className="mb-2 flex items-center">
               <div>
-                <h4 className="  text-gray-700 font-bold  text-base">Junior Software Engineer <span className='font-normal text-sm md:text-base'>  (July, 2015 to June, 2016)</span></h4>
+                <h4 className="  text-gray-700 font-bold  text-base">Junior Software Engineer <span className="font-normal text-sm md:text-base">  (July, 2015 to June, 2016)</span></h4>
                 <h4 className="text-sm ml-2 text-gray-500 font-bold"> Pioneer Printing & Packaging Ltd. </h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline"><em> Location: 141/1 Fakir pool (Commissioner Goli), Dhaka-1000.</em></h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline "> <em><u> Responsibilities </u></em> </h4>
@@ -650,7 +650,7 @@ export  function Trainee() {
       <div className="flex items-center justify-between ml-5">                  
             <div className="mb-2 flex items-center">
               <div>
-                <h4 className="  text-gray-700 font-bold  text-base">Trainee Software Engineer <span className='font-normal text-sm md:text-base'>  (January, 2015 to June, 2015)</span></h4>
+                <h4 className="  text-gray-700 font-bold  text-base">Trainee Software Engineer <span className="font-normal text-sm md:text-base">  (January, 2015 to June, 2015)</span></h4>
                 <h4 className="text-sm ml-2 text-gray-500 font-bold">Pioneer Printing & Packaging Ltd. </h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline"><em> Location: 141/1 Fakir pool (Commissioner Goli), Dhaka-1000.</em></h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline "> <em><u> Responsibilities </u></em> </h4>
