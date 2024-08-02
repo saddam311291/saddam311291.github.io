@@ -93,7 +93,7 @@ export  function Head() {
       <div className="flex items-center justify-between ml-5">                  
             <div className="mb-2 flex items-center">
               <div>
-                <h4 className="  text-gray-700 font-bold  text-base">Technical Lead and Team Lead <span className='font-normal text-sm md:text-base'> &nbsp;(January, 2020 to June, 2021)</span></h4>
+                <h4 className="  text-gray-700 font-bold  text-base">Technical Lead and Team Lead <span className='font-normal text-sm md:text-base'>  (January, 2020 to June, 2021)</span></h4>
                 <h4 className="text-sm ml-2 text-gray-500 font-bold"> CS InfoTech Limited. </h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline"><em> Location: Software Technology Park, Kawran Bazar, Dhaka.</em></h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline "> <em><u> Responsibilities </u></em> </h4>
