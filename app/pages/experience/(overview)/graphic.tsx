@@ -6,7 +6,7 @@ export  function Royal() {
     <div className="flex items-center justify-between ml-5">                  
           <div className="mb-2 flex items-center">
             <div>
-              <h4 className="  text-gray-700 font-bold  text-base"> Graphic Designer  <span className='font-normal text-sm md:text-base'> &nbsp;(January, 2012 to December, 2012)</span></h4>
+              <h4 className="  text-gray-700 font-bold  text-base"> Graphic Designer  <span className='font-normal text-sm md:text-base'>  (January, 2012 to December, 2012)</span></h4>
               <h4 className="text-sm ml-2 text-gray-500 font-bold"> Royal Accessories Limited. </h4>
               <h4 className="text-sm  ml-3  text-gray-500 font-underline"><em> Location: 164/4/8 Arambag, Dhaka-1000. </em></h4>
               <h4 className="text-sm  ml-3  text-gray-500 font-underline "> <em><u> Responsibilities </u></em> </h4>
@@ -73,7 +73,7 @@ export  function Jsint() {
       <div className="flex items-center justify-between ml-5">                  
             <div className="mb-2 flex items-center">
               <div>
-                <h4 className="  text-gray-700 font-bold  text-base">Senior Graphic Designer  <span className='font-normal text-sm md:text-base'> &nbsp;(January, 2013 to July, 2013)</span></h4>
+                <h4 className="  text-gray-700 font-bold  text-base">Senior Graphic Designer  <span className='font-normal text-sm md:text-base'>  (January, 2013 to July, 2013)</span></h4>
                 <h4 className="text-sm ml-2 text-gray-500 font-bold"> JS International Limited. </h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline"><em> Location: 178/1/A Fakir pool (Commissioner Goli), Dhaka-1000. </em></h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline "> <em><u> Responsibilities </u></em> </h4>
@@ -140,7 +140,7 @@ export  function Soha() {
       <div className="flex items-center justify-between ml-5">                  
             <div className="mb-2 flex items-center">
               <div>
-                <h4 className="  text-gray-700 font-bold  text-base">Executive (IT)   <span className='font-normal text-sm md:text-base'> &nbsp;(August, 2013 to December, 2014)</span></h4>
+                <h4 className="  text-gray-700 font-bold  text-base">Executive (IT)   <span className='font-normal text-sm md:text-base'>  (August, 2013 to December, 2014)</span></h4>
                 <h4 className="text-sm ml-2 text-gray-500 font-bold"> Soha Enterprise Limited. </h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline"><em> Location: 102/1 Fakir pool (Panir Tank), Dhaka-1000. </em></h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline "> <em><u> Responsibilities </u></em> </h4>
