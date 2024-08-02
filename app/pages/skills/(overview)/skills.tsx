@@ -76,9 +76,17 @@ export  function Skills() {
           </div>
      </div>    
      </div>
-
-     
-     
+     <div className=" my-5 py-1 "> 
+    <div className="flex items-center justify-between ml-5">                  
+          <div className="mb-2 flex items-center">
+            <div> 
+              <h4 className="mb-5 text-gray-700 font-bold  text-base"><u>*** Comprehensive Skills Overview *** </u> </h4> 
+               
+            </div>
+          </div>
+     </div>    
+     </div>
+        
  </main>
 
   );
