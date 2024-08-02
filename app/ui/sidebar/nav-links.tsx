@@ -18,11 +18,11 @@ import { usePathname } from 'next/navigation';
 // Depending on the size of the application, this would be stored in a database.
 const links = [
   { name: 'About', href: '/', icon: UserIcon },
-  { name: 'Employment History', href: '/pages/experience', icon: DocumentDuplicateIcon },
-  { name: 'Portfolio', href: '/pages/portfolio',  icon: UserGroupIcon, },
-  { name: 'Education', href: '/pages/education', icon: AcademicCapIcon, },
+  { name: 'Employment History', href: '/pages/experience', icon: DocumentDuplicateIcon }, 
+  { name: 'Traning & Education', href: '/pages/education', icon: AcademicCapIcon, },
   { name: 'Skills & Certification', href: '/pages/skills', icon: ServerStackIcon },
-  { name: 'Contact ', href: '/pages/contact', icon: InboxIcon },
+  { name: 'Portfolio', href: '/pages/portfolio',  icon: UserGroupIcon, },
+  { name: 'Service', href: '/pages/service', icon: InboxIcon },
    
 ];
 
