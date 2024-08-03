@@ -16,7 +16,7 @@ export default async function Page() {
        
         {/* <Education></Education> */}
         {/* <Traning></Traning> */}
-
+        Pages Details Comming Soon......!
         
         </div>
       </div>
