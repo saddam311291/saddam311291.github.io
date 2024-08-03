@@ -1,5 +1,13 @@
 import Heading from "./heading";
-import {Certification} from "./certification";
+import {
+  OstadCertification,
+  OstadAssessment,
+  RhceCert,
+  RhcaCert,
+  FormsCert,
+  PlsqlCert,
+  SqlCert
+} from "./certification";
 import {Skills} from "./skills";
  
 
@@ -15,7 +23,14 @@ export default async function Page() {
         <div className="flex-grow  mb-20 overflow-y-auto w-full">
        
         <Skills></Skills>
-        <Certification></Certification>
+        <OstadCertification></OstadCertification>
+        <OstadAssessment></OstadAssessment>
+        <RhceCert></RhceCert>
+        <RhcaCert></RhcaCert>
+        <FormsCert></FormsCert>
+        <PlsqlCert></PlsqlCert>
+        <SqlCert></SqlCert>
+
         
         </div>
       </div>

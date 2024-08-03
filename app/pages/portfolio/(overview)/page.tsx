@@ -14,8 +14,9 @@ export default async function Page() {
         </div>
         <div className="flex-grow  mb-20 overflow-y-auto w-full">
        
-        <Education></Education>
-        <Traning></Traning>
+        {/* <Education></Education> */}
+        {/* <Traning></Traning> */}
+
         
         </div>
       </div>
