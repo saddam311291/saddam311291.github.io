@@ -1,6 +1,9 @@
 import Heading from "./heading";
 import {
   Erp,
+  ShantaAsset,
+  UcbAsset,
+  SandhaniAsset
 } from "./portfolio";
 // import {Skills} from "./skills";
  
@@ -15,8 +18,13 @@ export default async function Page() {
           <Heading />
         </div>
         <div className="flex-grow  mb-20 overflow-y-auto w-full">
-       
-        <Erp initialPopupState={false} />
+
+        {/* <UcbAsset initialPopupState={false} />  */}
+        {/* <ShantaAsset initialPopupState={false} />  */}
+        <SandhaniAsset initialPopupState={false} /> 
+        {/* <Erp initialPopupState={false} />  */}
+        
+        
 
         
         </div>
