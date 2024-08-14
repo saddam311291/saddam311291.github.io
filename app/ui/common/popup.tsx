@@ -1,9 +1,15 @@
 "use client";
 import Image from 'next/image';
 
-export function Popup({ isPopupOpen, togglePopup, imageSrc }) {
-  if (!isPopupOpen) return null;
+type PopupProps = {
+  isPopupOpen: boolean;
+  togglePopup: () => void;
+  imageSrc: string;
+};
 
+export function Popup({ isPopupOpen, togglePopup, imageSrc }: PopupProps) {
+  if (!isPopupOpen) return null;
+  
   return (
     <div
       className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-75 z-50"
