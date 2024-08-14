@@ -1,6 +1,8 @@
 import Heading from "./heading";
-import {Traning} from "./traning";
-import {Education} from "./education";
+import {
+  Erp,
+} from "./portfolio";
+// import {Skills} from "./skills";
  
 
 
@@ -14,9 +16,8 @@ export default async function Page() {
         </div>
         <div className="flex-grow  mb-20 overflow-y-auto w-full">
        
-        {/* <Education></Education> */}
-        {/* <Traning></Traning> */}
-        Pages Details Comming Soon......!
+        <Erp initialPopupState={false} />
+
         
         </div>
       </div>
