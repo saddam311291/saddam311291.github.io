@@ -4,7 +4,11 @@ import Image from 'next/image';
 import tdlImg from "@/public/portfolio/tdl.png";
 import { Popup } from  "@/app/ui/common/popup"; // Import the Popup component
 
-export function Erp({ initialPopupState }) {
+type ErpProps = {
+  initialPopupState: boolean;
+};
+
+export function Erp({ initialPopupState }: ErpProps) {
   const [isPopupOpen, setIsPopupOpen] = useState(initialPopupState);
 
   const togglePopup = () => {
