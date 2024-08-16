@@ -13,7 +13,8 @@ export default function SummaryText() {
          
               <h4 className="mt-10 text-sm md:text-2xl ">Hi There...</h4>
               <h4 className="my-4 text-gray-700 font-bold text-xl md:text-4xl">Saddam Hossain <span className='font-normal text-sm md:text-lg'>speaking</span></h4>
-              <h4 className="text-sm  text-gray-500  md:text-lg "> Software Architect </h4>
+              {/* <h4 className="text-sm  text-gray-500  md:text-lg "> Software Architect </h4> */}
+              <h4 className="text-sm  text-gray-500  md:text-lg "> IT Professional </h4>
               <h4 className="mt-4 text-xs  text-gray-400  md:text-base ">164/2 South Jatrabari, Dhaka-1024, Dhaka, Bangladesh.</h4>
             </div>
           </div>
@@ -44,11 +45,7 @@ export default function SummaryText() {
      <div className="flex items-center justify-between border-b border-r  my-10 p-5">                  
           <div className=" mb-2 flex items-center  ">
             <div>
-              <p className="text-xs text-justify text-slate-800  md:text-base ">Experienced IT professional, with over 10+ years of success leading all phases of diverse technology projects with good experience in
-              design, development, and implementation of business applications in client/server and Web-based Environments Bank and None
-              Banking Organizations. Sound knowledge of database design and principles of the computing system. Experience and expertise in
-              developing, testing, and analyzing systems, Frameworks, and web development technologies. Ability to handle project
-              responsibilities independently.</p>
+              <p className="text-xs text-justify text-slate-800  md:text-base ">Experienced IT professional with over 12+ years of success leading diverse technology projects across various sectors, including banking and non-banking organizations. Proficient in designing, developing, and implementing business applications in client/server and web-based environments. Possess in-depth knowledge of database design, system architecture, and computing principles. Extensive experience in developing, testing, and analyzing software systems, frameworks, and web technologies. Demonstrated ability to independently manage and deliver complex projects, with a strong focus on continuous process improvement and team leadership.</p>
               
             </div>
           </div>

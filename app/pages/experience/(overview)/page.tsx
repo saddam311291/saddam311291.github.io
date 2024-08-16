@@ -14,9 +14,9 @@ export default async function Page() {
           <Heading />
         </div>
         <div className="flex-grow mb-20 overflow-y-auto w-full">
-          <Architect/>
-          <Ernst/>
+          {/* <Architect/> */}
           <HeadOf />
+          <Ernst/>
           <Head/>
           <Lead/>
           <DBA/>
