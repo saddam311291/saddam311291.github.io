@@ -19,10 +19,10 @@ export default async function Page() {
         </div>
         <div className="flex-grow  mb-20 overflow-y-auto w-full">
 
-        {/* <UcbAsset initialPopupState={false} />  */}
-        {/* <ShantaAsset initialPopupState={false} />  */}
+        <UcbAsset initialPopupState={false} /> 
+        <ShantaAsset initialPopupState={false} /> 
         <SandhaniAsset initialPopupState={false} /> 
-        {/* <Erp initialPopupState={false} />  */}
+        <Erp initialPopupState={false} /> 
         
         
 
