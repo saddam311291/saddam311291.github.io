@@ -10,8 +10,17 @@ import {
 } from "./portfolioasset";
 
 import {
-  RiverInvest
+  RiverInvest,
+  IbcmlInvest,
+  UcbInvest,
+  BeplInvest
 } from "./portfolioinvestment";
+
+import {
+  Idesk, 
+  Uinvest,
+  Isltrade
+} from "./portfoliostock";
 
 export default async function Page() {
   return (
@@ -25,20 +34,21 @@ export default async function Page() {
           </div>
           <div className="flex-grow mb-20 overflow-y-auto w-full">
             {/* Grid container for components */}
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
-              {/* <RiverInvest initialPopupState={false} />  */}
-              {/* <RiverInvest initialPopupState={false} />  */}
-              {/* <RiverInvest initialPopupState={false} />  */}
-              <RiverInvest initialPopupState={false} /> 
-              <ShantaAsset initialPopupState={false} /> 
-              <UcbAsset initialPopupState={false} /> 
-              <SandhaniAsset initialPopupState={false} /> 
-              <IclAsset initialPopupState={false} /> 
-              <IdlcAsset initialPopupState={false} /> 
-              <AimsAsset initialPopupState={false} /> 
-              <Erp initialPopupState={false} /> 
-              
-              
+              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+                <Idesk initialPopupState={false} /> 
+                <Uinvest initialPopupState={false} /> 
+                <Isltrade initialPopupState={false} /> 
+                <BeplInvest initialPopupState={false} /> 
+                <UcbInvest initialPopupState={false} /> 
+                <IbcmlInvest initialPopupState={false} /> 
+                <RiverInvest initialPopupState={false} /> 
+                <ShantaAsset initialPopupState={false} /> 
+                <UcbAsset initialPopupState={false} /> 
+                <SandhaniAsset initialPopupState={false} /> 
+                <IclAsset initialPopupState={false} /> 
+                <IdlcAsset initialPopupState={false} /> 
+                <AimsAsset initialPopupState={false} /> 
+                <Erp initialPopupState={false} /> 
               </div>
           </div>
         </div>
