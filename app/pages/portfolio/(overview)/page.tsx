@@ -36,18 +36,21 @@ export default async function Page() {
             {/* Grid container for components */}
               <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
                 <Idesk initialPopupState={false} /> 
-                <Uinvest initialPopupState={false} /> 
-                <Isltrade initialPopupState={false} /> 
                 <BeplInvest initialPopupState={false} /> 
-                <UcbInvest initialPopupState={false} /> 
-                <IbcmlInvest initialPopupState={false} /> 
-                <RiverInvest initialPopupState={false} /> 
-                <ShantaAsset initialPopupState={false} /> 
-                <UcbAsset initialPopupState={false} /> 
-                <SandhaniAsset initialPopupState={false} /> 
-                <IclAsset initialPopupState={false} /> 
-                <IdlcAsset initialPopupState={false} /> 
                 <AimsAsset initialPopupState={false} /> 
+                <Uinvest initialPopupState={false} /> 
+                <UcbAsset initialPopupState={false} /> 
+                <UcbInvest initialPopupState={false} />               
+                
+                <Isltrade initialPopupState={false} /> 
+                <ShantaAsset initialPopupState={false} /> 
+                <IbcmlInvest initialPopupState={false} /> 
+
+                <IdlcAsset initialPopupState={false} /> 
+                <RiverInvest initialPopupState={false} /> 
+                <SandhaniAsset initialPopupState={false} /> 
+                
+                <IclAsset initialPopupState={false} /> 
                 <Erp initialPopupState={false} /> 
               </div>
           </div>
