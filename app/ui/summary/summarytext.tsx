@@ -45,7 +45,17 @@ export default function SummaryText() {
      <div className="flex items-center justify-between border-b border-r  my-10 p-5">                  
           <div className=" mb-2 flex items-center  ">
             <div>
-              <p className="text-xs text-justify text-slate-800  md:text-base ">Experienced IT professional with over 12+ years of success leading diverse technology projects across various sectors, including banking and non-banking organizations. Proficient in designing, developing, and implementing business applications in client/server and web-based environments. Possess in-depth knowledge of database design, system architecture, and computing principles. Extensive experience in developing, testing, and analyzing software systems, frameworks, and web technologies. Demonstrated ability to independently manage and deliver complex projects, with a strong focus on continuous process improvement and team leadership.</p>
+              <p className="text-xs text-justify text-slate-800  md:text-base ">Experienced IT professional with a proven track record of over 12+ years in leading and delivering successful technology projects and driving product development strategies. As a Head of Project and Product, I've honed my skills in project planning, product strategy, resource allocation, and team leadership. My expertise spans across various industries, including Banking and Non-Banking Organizations.
+
+My technical proficiency covers a wide range of front-end and back-end technologies, including HTML, CSS, JavaScript, Python, Django, SQL, and more. I hold certifications as an Oracle Certified Professional (OCP) and Red Hat Certified Engineer (RHCE), demonstrating my commitment to technical excellence.
+
+With a strong foundation in project management methodologies, continuous process improvement, and Agile practices, I bring a strategic approach to project execution. I am passionate about translating business objectives into actionable plans, driving cross-functional collaboration, and delivering results that align with market trends and customer needs.
+
+I hold a postgraduate diploma in Information Technology (PGDIT) from the Islamic Development Bank and an MBA from Dhaka University. My education, coupled with hands-on experience, equips me to navigate complex challenges and deliver innovative solutions.
+
+Fluent in English and Bengali, I'm adept at effective communication and collaboration across multicultural teams. My commitment to excellence, combined with my technical acumen, has allowed me to make a meaningful impact on the organizations I've served.
+
+I am always open to networking, discussing potential collaborations, or sharing insights on project management, product development, and technology. Feel free to connect with me, and let's explore opportunities to work together or exchange knowledge.</p>
               
             </div>
           </div>
