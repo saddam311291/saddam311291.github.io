@@ -6,6 +6,9 @@ import IdeskImg from "@/public/portfolio/Stock/idesk.png";
 import IifdcImg from "@/public/portfolio/Stock/iidfc.png";
 import UinvestImg from "@/public/portfolio/Stock/ucb.png";
 
+
+
+
 type ErpProps = {
   initialPopupState: boolean;
 };
