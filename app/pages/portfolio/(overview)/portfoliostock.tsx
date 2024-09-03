@@ -2,9 +2,9 @@
 import { useState } from 'react';
 import Image from 'next/image';
 import { Popup } from "@/app/ui/common/popup"; // Import the Popup component
-import IdeskImg from "/public/portfolio/Stock/idesk.png";
-import IifdcImg from "/public/portfolio/Stock/iidfc.png";
-import UinvestImg from "/public/portfolio/Stock/ucb.png";
+import IdeskImg from "@/public/portfolio/stock/idesk.png";
+import IifdcImg from "@/public/portfolio/stock/iidfc.png";
+import UinvestImg from "@/public/portfolio/stock/ucb.png";
 
 
 
