@@ -14,7 +14,7 @@ export default function SummaryText() {
               <h4 className="mt-10 text-sm md:text-2xl ">Hi There...</h4>
               <h4 className="my-4 text-gray-700 font-bold text-xl md:text-4xl">Saddam Hossain <span className='font-normal text-sm md:text-lg'>speaking</span></h4>
               {/* <h4 className="text-sm  text-gray-500  md:text-lg "> Software Architect </h4> */}
-              <h4 className="text-sm  text-gray-500  md:text-lg "> IT Professional </h4>
+              <h4 className="text-sm  text-gray-500  md:text-lg "> Full Stack Developer | Senior Software Engineer | Software Architect | OCP & RHCE Certified</h4>
               <h4 className="mt-4 text-xs  text-gray-400  md:text-base ">164/2 South Jatrabari, Dhaka-1024, Dhaka, Bangladesh.</h4>
             </div>
           </div>
@@ -46,7 +46,8 @@ export default function SummaryText() {
           <div className=" mb-2 flex items-center  ">
             <div>
               <p className="text-xs text-justify text-slate-800  md:text-base ">
-              Experienced IT professional with 12+ years of expertise in leading technology projects and product development. Proficient in front-end and back-end technologies, including HTML, CSS, JavaScript,Node.js,Next.js,PHP,Laravel,Wordpress, Python, Django, and SQL. Certified Oracle Certified Professional (OCP) and Red Hat Certified Engineer (RHCE). Strong background in project planning, Agile methodologies, and strategic product management across Banking and Non-Banking sectors. Holds a PGDIT from the Islamic Development Bank and an MBA from Dhaka University. Fluent in English and Bengali, with a proven ability to drive cross-functional collaboration and deliver innovative solutions.
+
+              IT professional with extensive experience in software development, technology leadership, and product management. Skilled in HTML, CSS, JavaScript, Node.js, Next.js, PHP, Laravel, WordPress, Python, Django, and SQL. Certified OCP & RHCE, with expertise in software architecture, Agile methodologies, and banking solutions. Holds a PGDIT (Islamic Development Bank) and an MBA (Dhaka University). Fluent in English & Bengali.
                 
               </p>
               

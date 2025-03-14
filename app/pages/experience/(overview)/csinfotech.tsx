@@ -5,7 +5,7 @@ export  function Head() {
       <div className="flex items-center justify-between ml-5">                  
             <div className="mb-2 flex items-center">
               <div>
-                <h4 className="  text-gray-700 font-bold  text-base">Head of Product and Project<span className="font-normal text-sm md:text-base">  (July, 2021 to March, 2022)</span></h4>
+                <h4 className="  text-gray-700 font-bold  text-base"> Senior Software Engineer & Technical Lead <span className="font-normal text-sm md:text-base">  (April, 2021 to March, 2022)</span></h4>
                 <h4 className="text-sm ml-2 text-gray-500 font-bold"> CS InfoTech Limited. </h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline"><em> Location: Software Technology Park, Kawran Bazar, Dhaka.</em></h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline "> <em><u> Responsibilities </u></em> </h4>
@@ -93,7 +93,7 @@ export  function Head() {
       <div className="flex items-center justify-between ml-5">                  
             <div className="mb-2 flex items-center">
               <div>
-                <h4 className="  text-gray-700 font-bold  text-base">Technical Lead and Team Lead <span className="font-normal text-sm md:text-base">  (January, 2020 to June, 2021)</span></h4>
+                <h4 className="  text-gray-700 font-bold  text-base">Senior Software Engineer and Team Lead <span className="font-normal text-sm md:text-base">  (January, 2020 to March, 2021)</span></h4>
                 <h4 className="text-sm ml-2 text-gray-500 font-bold"> CS InfoTech Limited. </h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline"><em> Location: Software Technology Park, Kawran Bazar, Dhaka.</em></h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline "> <em><u> Responsibilities </u></em> </h4>
@@ -220,142 +220,142 @@ export  function Head() {
    </main>
     );
   }
-  export  function DBA () {
-    return ( 
-      <main>
-     <div className=" my-1 py-1 border-b "> 
-      <div className="flex items-center justify-between ml-5">                  
-            <div className="mb-2 flex items-center">
-              <div>
-                <h4 className="  text-gray-700 font-bold  text-base">DBA and System Analyst. <span className="font-normal text-sm md:text-base">  (January, 2019 to December, 2019)</span></h4>
-                <h4 className="text-sm ml-2 text-gray-500 font-bold"> CS InfoTech Limited. </h4>
-                <h4 className="text-sm  ml-3  text-gray-500 font-underline"><em> Location: Software Technology Park, Kawran Bazar, Dhaka.</em></h4>
-                <h4 className="text-sm  ml-3  text-gray-500 font-underline "> <em><u> Responsibilities </u></em> </h4>
-              </div>
-            </div>
-       </div>
-       <div className="flex items-center justify-between  ml-14">                  
-            <div className=" mb-2 flex items-center  pr-5 ">
-              <div className="text-xs text-justify w-full text-slate-800">
-              <ul>
-                    <li><strong>Database Management:</strong>
-                        <ul>
-                            <li>Manage, maintain, and optimize databases, ensuring high availability, performance, and security.</li>
-                            <li>Install, configure, and upgrade database servers and related applications.</li>
-                        </ul>
-                    </li>
+//   export  function DBA () {
+//     return ( 
+//       <main>
+//      <div className=" my-1 py-1 border-b "> 
+//       <div className="flex items-center justify-between ml-5">                  
+//             <div className="mb-2 flex items-center">
+//               <div>
+//                 <h4 className="  text-gray-700 font-bold  text-base">DBA and System Analyst. <span className="font-normal text-sm md:text-base">  (January, 2019 to December, 2019)</span></h4>
+//                 <h4 className="text-sm ml-2 text-gray-500 font-bold"> CS InfoTech Limited. </h4>
+//                 <h4 className="text-sm  ml-3  text-gray-500 font-underline"><em> Location: Software Technology Park, Kawran Bazar, Dhaka.</em></h4>
+//                 <h4 className="text-sm  ml-3  text-gray-500 font-underline "> <em><u> Responsibilities </u></em> </h4>
+//               </div>
+//             </div>
+//        </div>
+//        <div className="flex items-center justify-between  ml-14">                  
+//             <div className=" mb-2 flex items-center  pr-5 ">
+//               <div className="text-xs text-justify w-full text-slate-800">
+//               <ul>
+//                     <li><strong>Database Management:</strong>
+//                         <ul>
+//                             <li>Manage, maintain, and optimize databases, ensuring high availability, performance, and security.</li>
+//                             <li>Install, configure, and upgrade database servers and related applications.</li>
+//                         </ul>
+//                     </li>
 
-                    <li><strong>Backup and Recovery:</strong>
-                        <ul>
-                            <li>Develop and implement robust backup and recovery strategies to safeguard data integrity and ensure business continuity.</li>
-                            <li>Perform regular database backups and restore procedures to protect against data loss.</li>
-                        </ul>
-                    </li>
+//                     <li><strong>Backup and Recovery:</strong>
+//                         <ul>
+//                             <li>Develop and implement robust backup and recovery strategies to safeguard data integrity and ensure business continuity.</li>
+//                             <li>Perform regular database backups and restore procedures to protect against data loss.</li>
+//                         </ul>
+//                     </li>
 
-                    <li><strong>Performance Tuning and Optimization:</strong>
-                        <ul>
-                            <li>Monitor database performance, identify bottlenecks, and apply tuning techniques to improve query execution times and system responsiveness.</li>
-                            <li>Implement indexing, partitioning, and other optimization strategies to enhance database efficiency.</li>
-                        </ul>
-                    </li>
+//                     <li><strong>Performance Tuning and Optimization:</strong>
+//                         <ul>
+//                             <li>Monitor database performance, identify bottlenecks, and apply tuning techniques to improve query execution times and system responsiveness.</li>
+//                             <li>Implement indexing, partitioning, and other optimization strategies to enhance database efficiency.</li>
+//                         </ul>
+//                     </li>
 
-                    <li><strong>Data Security and Compliance:</strong>
-                        <ul>
-                            <li>Ensure data security by managing access controls, encryption, and auditing to protect sensitive information.</li>
-                            <li>Maintain compliance with relevant data protection regulations and industry standards, such as GDPR or HIPAA.</li>
-                        </ul>
-                    </li>
+//                     <li><strong>Data Security and Compliance:</strong>
+//                         <ul>
+//                             <li>Ensure data security by managing access controls, encryption, and auditing to protect sensitive information.</li>
+//                             <li>Maintain compliance with relevant data protection regulations and industry standards, such as GDPR or HIPAA.</li>
+//                         </ul>
+//                     </li>
 
-                    <li><strong>Database Design and Architecture:</strong>
-                        <ul>
-                            <li>Collaborate with development teams to design database schemas, create data models, and implement storage solutions that meet application requirements.</li>
-                            <li>Optimize database designs for scalability and performance, ensuring alignment with business goals.</li>
-                        </ul>
-                    </li>
+//                     <li><strong>Database Design and Architecture:</strong>
+//                         <ul>
+//                             <li>Collaborate with development teams to design database schemas, create data models, and implement storage solutions that meet application requirements.</li>
+//                             <li>Optimize database designs for scalability and performance, ensuring alignment with business goals.</li>
+//                         </ul>
+//                     </li>
 
-                    <li><strong>Migration and Upgrades:</strong>
-                        <ul>
-                            <li>Plan and execute database migrations and upgrades, ensuring minimal downtime and data integrity during transitions.</li>
-                            <li>Manage data migration from legacy systems to new platforms, including ETL processes.</li>
-                        </ul>
-                    </li>
+//                     <li><strong>Migration and Upgrades:</strong>
+//                         <ul>
+//                             <li>Plan and execute database migrations and upgrades, ensuring minimal downtime and data integrity during transitions.</li>
+//                             <li>Manage data migration from legacy systems to new platforms, including ETL processes.</li>
+//                         </ul>
+//                     </li>
 
-                    <li><strong>Documentation and Reporting:</strong>
-                        <ul>
-                            <li>Maintain comprehensive documentation of database configurations, policies, procedures, and troubleshooting steps.</li>
-                            <li>Generate reports on database usage, performance metrics, and other key indicators for stakeholders.</li>
-                        </ul>
-                    </li>
+//                     <li><strong>Documentation and Reporting:</strong>
+//                         <ul>
+//                             <li>Maintain comprehensive documentation of database configurations, policies, procedures, and troubleshooting steps.</li>
+//                             <li>Generate reports on database usage, performance metrics, and other key indicators for stakeholders.</li>
+//                         </ul>
+//                     </li>
 
-                    <li><strong>Collaboration and Support:</strong>
-                        <ul>
-                            <li>Provide technical support to development teams, end-users, and other stakeholders regarding database-related issues.</li>
-                            <li>Collaborate with cross-functional teams to resolve database problems and implement solutions.</li>
-                        </ul>
-                    </li>
-                    <li><strong>Requirements Gathering and Analysis:</strong>
-            <ul>
-                <li>Work closely with stakeholders to gather, document, and analyze business requirements for new systems or enhancements.</li>
-                <li>Translate business needs into technical specifications, ensuring alignment with organizational goals.</li>
-            </ul>
-        </li>
+//                     <li><strong>Collaboration and Support:</strong>
+//                         <ul>
+//                             <li>Provide technical support to development teams, end-users, and other stakeholders regarding database-related issues.</li>
+//                             <li>Collaborate with cross-functional teams to resolve database problems and implement solutions.</li>
+//                         </ul>
+//                     </li>
+//                     <li><strong>Requirements Gathering and Analysis:</strong>
+//             <ul>
+//                 <li>Work closely with stakeholders to gather, document, and analyze business requirements for new systems or enhancements.</li>
+//                 <li>Translate business needs into technical specifications, ensuring alignment with organizational goals.</li>
+//             </ul>
+//         </li>
 
-        <li><strong>System Design and Implementation:</strong>
-            <ul>
-                <li>Design and recommend technical solutions to meet business requirements, including system architecture and integration plans.</li>
-                <li>Collaborate with development teams to implement new systems or modify existing ones, ensuring they meet functional and technical specifications.</li>
-            </ul>
-        </li>
+//         <li><strong>System Design and Implementation:</strong>
+//             <ul>
+//                 <li>Design and recommend technical solutions to meet business requirements, including system architecture and integration plans.</li>
+//                 <li>Collaborate with development teams to implement new systems or modify existing ones, ensuring they meet functional and technical specifications.</li>
+//             </ul>
+//         </li>
 
-        <li><strong>Process Improvement:</strong>
-            <ul>
-                <li>Analyze current business processes and workflows to identify inefficiencies and recommend improvements.</li>
-                <li>Implement process optimization strategies to enhance system performance and user experience.</li>
-            </ul>
-        </li>
+//         <li><strong>Process Improvement:</strong>
+//             <ul>
+//                 <li>Analyze current business processes and workflows to identify inefficiencies and recommend improvements.</li>
+//                 <li>Implement process optimization strategies to enhance system performance and user experience.</li>
+//             </ul>
+//         </li>
 
-        <li><strong>System Testing and Validation:</strong>
-            <ul>
-                <li>Develop and execute test plans to validate system functionality, performance, and security.</li>
-                <li>Identify and resolve issues discovered during testing to ensure systems meet quality standards.</li>
-            </ul>
-        </li>
+//         <li><strong>System Testing and Validation:</strong>
+//             <ul>
+//                 <li>Develop and execute test plans to validate system functionality, performance, and security.</li>
+//                 <li>Identify and resolve issues discovered during testing to ensure systems meet quality standards.</li>
+//             </ul>
+//         </li>
 
-        <li><strong>User Training and Support:</strong>
-            <ul>
-                <li>Develop user training materials and conduct training sessions to ensure effective system use.</li>
-                <li>Provide ongoing support to users, troubleshooting issues and offering solutions to enhance system utilization.</li>
-            </ul>
-        </li>
+//         <li><strong>User Training and Support:</strong>
+//             <ul>
+//                 <li>Develop user training materials and conduct training sessions to ensure effective system use.</li>
+//                 <li>Provide ongoing support to users, troubleshooting issues and offering solutions to enhance system utilization.</li>
+//             </ul>
+//         </li>
 
-        <li><strong>Documentation and Reporting:</strong>
-            <ul>
-                <li>Create and maintain detailed documentation of system designs, technical specifications, and process flows.</li>
-                <li>Generate reports on system performance, project progress, and other relevant metrics for stakeholders.</li>
-            </ul>
-        </li>
+//         <li><strong>Documentation and Reporting:</strong>
+//             <ul>
+//                 <li>Create and maintain detailed documentation of system designs, technical specifications, and process flows.</li>
+//                 <li>Generate reports on system performance, project progress, and other relevant metrics for stakeholders.</li>
+//             </ul>
+//         </li>
 
-        <li><strong>Project Management:</strong>
-            <ul>
-                <li>Manage system implementation projects, including planning, scheduling, and coordinating resources to ensure timely delivery.</li>
-                <li>Communicate project status, risks, and issues to stakeholders and ensure alignment with project objectives.</li>
-            </ul>
-        </li>
+//         <li><strong>Project Management:</strong>
+//             <ul>
+//                 <li>Manage system implementation projects, including planning, scheduling, and coordinating resources to ensure timely delivery.</li>
+//                 <li>Communicate project status, risks, and issues to stakeholders and ensure alignment with project objectives.</li>
+//             </ul>
+//         </li>
 
-        <li><strong>Technology Evaluation:</strong>
-            <ul>
-                <li>Stay current with emerging technologies and industry trends, evaluating their potential impact on existing systems.</li>
-                <li>Make recommendations for technology adoption and integration based on business needs and technical feasibility.</li>
-            </ul>
-        </li>
-                </ul>
-              </div>
-            </div>
-       </div>
-       </div>
-   </main>
-    );
-  }
+//         <li><strong>Technology Evaluation:</strong>
+//             <ul>
+//                 <li>Stay current with emerging technologies and industry trends, evaluating their potential impact on existing systems.</li>
+//                 <li>Make recommendations for technology adoption and integration based on business needs and technical feasibility.</li>
+//             </ul>
+//         </li>
+//                 </ul>
+//               </div>
+//             </div>
+//        </div>
+//        </div>
+//    </main>
+//     );
+//   }
 export  function SeniorSoftware () {
     return ( 
       <main>
@@ -363,7 +363,7 @@ export  function SeniorSoftware () {
       <div className="flex items-center justify-between ml-5">                  
             <div className="mb-2 flex items-center">
               <div>
-                <h4 className="  text-gray-700 font-bold  text-base">Senior Software Engineer <span className="font-normal text-sm md:text-base">  (January, 2018 to December, 2018)</span></h4>
+                <h4 className="  text-gray-700 font-bold  text-base">Senior Software Engineer <span className="font-normal text-sm md:text-base">  (January, 2018 to December, 2019)</span></h4>
                 <h4 className="text-sm ml-2 text-gray-500 font-bold"> CS InfoTech Limited. </h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline"><em> Location: Software Technology Park, Kawran Bazar, Dhaka.</em></h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline "> <em><u> Responsibilities </u></em> </h4>
@@ -458,7 +458,7 @@ export  function Software () {
       <div className="flex items-center justify-between ml-5">                  
             <div className="mb-2 flex items-center">
               <div>
-                <h4 className="  text-gray-700 font-bold  text-base">Software Engineer <span className="font-normal text-sm md:text-base">  (July, 2016 to December, 2017)</span></h4>
+                <h4 className="  text-gray-700 font-bold  text-base">Software Engineer <span className="font-normal text-sm md:text-base">  (January, 2017 to December, 2017)</span></h4>
                 <h4 className="text-sm ml-2 text-gray-500 font-bold"> Pioneer Printing & Packaging Ltd. </h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline"><em> Location: 141/1 Fakir pool (Commissioner Goli), Dhaka-1000.</em></h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline "> <em><u> Responsibilities </u></em> </h4>

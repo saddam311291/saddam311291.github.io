@@ -19,14 +19,14 @@ export default async function Page() {
           <Ernst/>
           <Head/>
           <Lead/>
-          <DBA/>
+          {/* <DBA/> */}
           <SeniorSoftware />
           <Software />
-          <Junior />
-          <Trainee />
-          <Soha/>
-          <Jsint/>
-          <Royal/>
+          {/* <Junior /> */}
+          {/* <Trainee /> */}
+          {/* <Soha/> */}
+          {/* <Jsint/> */}
+          {/* <Royal/> */}
         </div>
       </div>
     </div>
