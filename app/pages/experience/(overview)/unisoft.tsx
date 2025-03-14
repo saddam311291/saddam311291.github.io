@@ -102,7 +102,7 @@ export  function HeadOf() {
       <div className="flex items-center justify-between ml-5">                  
             <div className="mb-2 flex items-center">
               <div>
-                <h4 className="  text-gray-700 font-bold  text-base">Head of Product and Project<span className='font-normal text-sm md:text-base'>  (April, 2022 to Continuing)</span></h4>
+                <h4 className="  text-gray-700 font-bold  text-base"> Senior Software Engineer & Head of Product<span className='font-normal text-sm md:text-base'>  (April, 2022 to Continuing)</span></h4>
                 <h4 className="text-sm ml-2 text-gray-500 font-bold">Unisoft Systems Limited. </h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline"><em> Location: Jahir Smart Tower, 205/1, West Kafrul, Begum Rokeya Sharani, Tal tola, Dhaka-1207</em></h4>
                 <h4 className="text-sm  ml-3  text-gray-500 font-underline "> <em><u> Responsibilities </u></em> </h4>
