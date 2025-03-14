@@ -20,7 +20,7 @@ const DateDifference = () => {
   };
 
   useEffect(() => {
-    const startDate = '2012-01-01';
+    const startDate = '2017-01-01';
     const currentDate = new Date().toISOString().split('T')[0];
     const diff = calculateDateDifference(startDate, currentDate);
     setDifference(diff);
